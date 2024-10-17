@@ -1,2 +1,4 @@
-# drummachine
-A CodePen pen. The solution to one of the credit projects from FreeCodeCamp "Front End Development Libraries" course.
+# DrumMachine
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/heEXDe/pen/XWvNJGm](https://codepen.io/heEXDe/pen/XWvNJGm).
+
